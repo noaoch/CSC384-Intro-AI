@@ -1,0 +1,1 @@
+A3 deals with writing a program that plays the game "Battleship Solitaire" using backtracking search
