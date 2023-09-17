@@ -1,1 +1,1 @@
-
+A2 deals with writing a program that plays checker using minimax search + alpha-beta pruning.
