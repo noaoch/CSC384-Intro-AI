@@ -1,0 +1,1 @@
+A4 deals with implementing a Bayes Net that calculates the probability for an individual to receive above/below 50K wage, under given evidence variables.
