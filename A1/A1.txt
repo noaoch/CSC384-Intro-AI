@@ -1,0 +1,1 @@
+A1 deals with writing a program that plays the game "Hua Rong Dao" using 2 search algorithms - DFS and A*
